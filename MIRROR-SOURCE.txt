@@ -1,0 +1,13 @@
+Submodule mirrored for openancore.
+
+parent: upstream_rust_1.81.0
+path: src/doc/rustc-dev-guide
+gitmodules_url: https://github.com/rust-lang/rustc-dev-guide.git
+fetched_from: https://github.com/rust-lang/rustc-dev-guide.git
+commit: 0c4d55cb59fe440d1a630e4e5774d043968edb3f
+branch: main
+fallback_from_github: false
+
+commit is the gitlink recorded on the parent's android-15.0.0_r36 branch.
+branch is the upstream HEAD branch at fetch time. The commit is pushed
+here as android-15.0.0_r36 whether or not it is that branch's tip.
